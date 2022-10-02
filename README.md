@@ -14,7 +14,7 @@
 3: Edit your GitHub README.md file and save it. Wait a couple of minutes and you will see changes.
 <img src="https://user-images.githubusercontent.com/93617192/193446313-bb066760-b51b-4494-a6d4-59daea62b0a6.png" width="600">
 
-4. Now you can see the changes at www.${GitHub_username}.github.io
+4: Now you can see the changes at www.${GitHub_username}.github.io
 
 
 <img src="https://user-images.githubusercontent.com/93617192/193447187-60b60ee8-b2ff-494f-9f48-9ee0e9239f39.png" width="600">
