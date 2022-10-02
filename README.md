@@ -17,3 +17,5 @@
 
 4. Now you can see the changes at www.${GitHub_username}.github.io
 
+
+<img src="https://user-images.githubusercontent.com/93617192/193447187-60b60ee8-b2ff-494f-9f48-9ee0e9239f39.png" width="600">
