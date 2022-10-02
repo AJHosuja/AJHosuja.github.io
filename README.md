@@ -1,6 +1,4 @@
 # AJHosuja.github.io
-## Change
-
 ## Free choice extra task bundle E. Course: Cloud Services
 
 ### Use Github Pages and markdown language to create a basic static website
